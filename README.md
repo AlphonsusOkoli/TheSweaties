@@ -1,4 +1,4 @@
 # TheSweaties
-//freak that shiznit
+Freak that shiznit
 
 Hackathon
